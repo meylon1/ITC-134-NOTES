@@ -12,7 +12,7 @@
 - Git status / List the files you've changed and those you still need to add or commit
 - Git commit -a -m / Commit any files you've added with git add, and also commit any files you've changed since then
 - Git merge <branch name> / To merge a different branch into your active branch
-- Git add <file name> / Add one or more files to staging (index):
+- Git add <file name> / Add one or more files to staging 
 
 ***
 					      Linux 
